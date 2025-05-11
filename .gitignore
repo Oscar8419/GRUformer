@@ -1,0 +1,8 @@
+__pycache__
+good_param
+.ipynb_checkpoints
+*.log
+*.pt
+*.pth
+t.*
+*.pkl
